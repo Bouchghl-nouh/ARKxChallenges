@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #eee;
+}
+img{
+    width:70px ;
+    height: 70px ;
+    border-radius: 50%;
+}
+.container {
+    margin: 100px auto ;
+    background-color: white;
+}
